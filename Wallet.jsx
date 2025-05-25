@@ -1,0 +1,1 @@
+// Atheris Coin wallet interface

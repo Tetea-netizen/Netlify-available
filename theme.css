@@ -1,0 +1,33 @@
+
+:root {
+  --color-primary: #8ecae6;
+  --color-secondary: #219ebc;
+  --color-accent: #ffb703;
+  --color-background: #f0f4f8;
+  --font-heading: 'Cinzel', serif;
+  --font-body: 'Inter', sans-serif;
+}
+body {
+  background: var(--color-background);
+  font-family: var(--font-body);
+}
+h1, h2, h3, h4 {
+  font-family: var(--font-heading);
+  color: var(--color-primary);
+}
+.card {
+  border: 2px solid var(--color-secondary);
+  border-radius: 1rem;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  background: white;
+}
+.button, .btn {
+  background: var(--color-accent);
+  border: none;
+  border-radius: 0.5rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.button:hover, .btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}

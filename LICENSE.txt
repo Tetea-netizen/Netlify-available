@@ -1,0 +1,13 @@
+
+AtherisReader License
+Copyright (c) 2025 Creator (alanwalkerfaded69207@gmail.com)
+
+This software and all its associated files (including frontend, backend, assets, data models, and features such as Atheris Coin, Atheris Chat, and NPC systems) are the intellectual property of the Creator.
+
+Permission is granted to view, learn from, and run the project for personal or educational use only. Commercial use, resale, replication, modification, redistribution, or hosting of this project in any form—whether original or modified—is strictly prohibited without explicit written permission from the Creator.
+
+Unauthorized reproduction or distribution of this software, or any portion of it, may result in civil and criminal penalties.
+
+Contact: alanwalkerfaded69207@gmail.com
+
+This license must be included with all copies or substantial portions of the software.
